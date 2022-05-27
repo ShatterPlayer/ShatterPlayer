@@ -4,7 +4,6 @@
 - 📫 The easiest way to reach me is through my E-Mail: michalk101010@gmail.com
 
 [![ShatterPlayer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShatterPlayer&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShatterPlayer&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 ShatterPlayer/ShatterPlayer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
