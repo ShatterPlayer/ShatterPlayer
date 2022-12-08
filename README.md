@@ -4,6 +4,9 @@ https://shatterplayer.github.io/
 - 🌱 I’m currently learning [Redux Toolkit](https://github.com/reduxjs/redux-toolkit), [React](https://github.com/facebook/react)
 - 📫 The easiest way to reach me is through my E-Mail: michalk101010@gmail.com
 
+https://paperswithcode.com/paper/images-speak-in-images-a-generalist-painter
+https://github.com/ShatterPlayer/DDNM
+
 <!---
 ShatterPlayer/ShatterPlayer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
