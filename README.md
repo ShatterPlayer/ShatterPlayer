@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShatterPlayer
 - 👀 I’m interested in web development based on the latests technologies
-- 🌱 I’m currently learning [Redux Toolkit](https://github.com/reduxjs/redux-toolkit), [React](https://github.com/facebook/react)
+- 🌱 I’m currently learning [Next.js](https://nextjs.org/)
 - 📫 The easiest way to reach me is through my E-Mail: michalk101010@gmail.com
 
 <!---
