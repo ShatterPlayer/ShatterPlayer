@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ShatterPlayer
-- 👀 I’m interested in web development based on the latests technologies
-- 🌱 I’m currently learning [Next.js](https://nextjs.org/) and [GraphQL](https://graphql.org/)
+- 👋 Hi, I’m Michał
+- 👀 I’m interested in artificial intelligence and web development
+- 🌱 I’m currently learning IoT systems development based on [ESP32](https://www.espressif.com/en/products/socs/esp32) and digital image processing using python and [opencv](https://opencv.org/)
 - 📫 The easiest way to reach me is through my E-Mail: michalk101010@gmail.com
 
 <!---
